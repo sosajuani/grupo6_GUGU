@@ -1,10 +1,7 @@
-# grupo_6_GUGU
-Juguetería para bebes 0 - 6
-
-# GUGU
+# GUGU 🐻
 Este proyecto consiste en desarrollar un e-commerce que está orientado hacía la venta de una juguetería didáctica, la cual va a tener diferentes tipos de juguetes.
 
-# Tipos de juguetes
+# Tipos de juguetes 🤖
 Juguetes didácticos.
 Pizarras
 Rompecabezas
@@ -18,7 +15,7 @@ El público objetivo va a ser adultos que tengan hijos o familiares de 0 - 6 añ
 
  Pizarras, rompecabezas, pronos laberintos, bloques, trenes, carros para niños entre 0 - 6 años
 
-# Equipo
+# Equipo:busts_in_silhouette:
 Juan Sosa ---
 Paola Fernandez ---
 Jesus Neyra ---
