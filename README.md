@@ -1,28 +1,32 @@
-# GUGU 🐻
+# GUGU 🧸
 Este proyecto consiste en desarrollar un e-commerce que está orientado hacía la venta de una juguetería didáctica, la cual va a tener diferentes tipos de juguetes.
 
-# Tipos de juguetes 🤖
-Juguetes didácticos.
-Pizarras
-Rompecabezas
-Pronos Laberintos
-Bloques
-Trenes
-Carros**
+## Tipos de juguetes :
+- Juguetes didácticos
+- Pizarras 
+- Rompecabezas
+- Prono Laberintos
+- Bloques
+- Trenes
+- Carros
 
-# Público
+## Público
 El público objetivo va a ser adultos que tengan hijos o familiares de 0 - 6 años
 
- Pizarras, rompecabezas, pronos laberintos, bloques, trenes, carros para niños entre 0 - 6 años
+## Equipo:busts_in_silhouette::
+**Juan Sosa:**
 
-# Equipo:busts_in_silhouette:
-Juan Sosa ---
-Paola Fernandez ---
-Jesus Neyra ---
-Eunice Quispe ---
+**Paola Fernandez:** 
 
-# Sitios web de referencia
+**Jesus Neyra:**
 
-?????
+**Eunice Quispe:**
 
-Tablero de trabajo
+
+## Sitios web de referencia 🔗:
+- https://www.tiendacracovia.com.ar/
+- https://www.somno.com.ar/
+- https://ikitoi.com/
+- http://www.girodidactico.com/index.aspx
+
+## Tablero de trabajo
