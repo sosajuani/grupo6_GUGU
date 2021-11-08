@@ -16,7 +16,7 @@ El público objetivo va a ser adultos que tengan hijos o familiares de 0 - 6 añ
 ## Equipo:busts_in_silhouette::
 **Juan Sosa:**
 
-**Paola Fernandez:** 
+**Paola Fernandez:**  Miembro del equipo, empecé aprendiendo programacion orientada a objetos,  hoy en dia es algo que me encanta  y tengo muchas ganas de aprender mas y expandir mi conocimiento en el rubro
 
 **Jesus Neyra:**
 
