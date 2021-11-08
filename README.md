@@ -32,3 +32,4 @@ El público objetivo va a ser adultos que tengan hijos o familiares de 0 - 6 añ
 - https://www.cebra.com.ar/ **Contenido del home, header, footer**
 
 ## Tablero de trabajo
+https://trello.com/b/18JyjpiX/dh-web
