@@ -15,7 +15,7 @@ Este proyecto consiste en desarrollar un e-commerce que está orientado hacía l
 El público objetivo va a ser adultos que tengan hijos o familiares de 0 - 6 años
 
 ## Equipo:busts_in_silhouette::
-**Juan Sosa:**
+**Juan Sosa:** Miembro del equipo de GUGU. Empecé en la programación hace 10 años como hobby, lo deje de lado un tiempo y ahora volví a programar pero enfocado mas al ámbito profesional.
 
 **Paola Fernandez:**  Miembro del equipo, empecé aprendiendo programacion orientada a objetos,  hoy en dia es algo que me encanta  y tengo muchas ganas de aprender mas y expandir mi conocimiento en el rubro
 
