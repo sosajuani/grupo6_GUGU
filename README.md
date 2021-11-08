@@ -21,7 +21,7 @@ El público objetivo va a ser adultos que tengan hijos o familiares de 0 - 6 añ
 
 **Jesus Neyra:**
 
-**Eunice Quispe:** Miembro del equipo GUGU. Son mis primeros pasos en GitHub y me entrtiene bastante. Deseo expandir mi conocimiento más y más en programación.
+**Eunice Quispe:** Miembro del equipo GUGU. Despues de terminar la secundaria decidi conocer más sobre programación y aqui estoy, de hecho este es mi primer readme en github.
 
 
 ## Sitios web de referencia 🔗:
