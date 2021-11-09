@@ -1,5 +1,6 @@
 # GUGU 🧸
-Este proyecto consiste en desarrollar un e-commerce que está orientado hacía la venta de una juguetería didáctica, la cual va a tener diferentes tipos de juguetes.
+Este proyecto consiste en desarrollar un e-commerce. En este caso una jugetería, orientada en su mayoria a la venta de juguetes didácticos.
+El objetivo de dichos juguetes es acompañar y ayudar a los infantes a poder desarrollar de manera entretenida y divertida su capacidad mental y adquisición de conocimientos de forma activa. 
 [![Whats-App-Image-2021-11-05-at-3-36-17-PM.jpg](https://i.postimg.cc/mZ69ckrv/Whats-App-Image-2021-11-05-at-3-36-17-PM.jpg)](https://postimg.cc/5jLyTxLg)
 
 ## Tipos de juguetes :
