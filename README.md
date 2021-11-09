@@ -25,7 +25,7 @@ El público objetivo serán adultos que tengan hijos o familiares de a - 6 años
 
 **Paola Fernandez:**  Miembro del equipo, empecé aprendiendo programacion orientada a objetos,  hoy en dia es algo que me encanta  y tengo muchas ganas de aprender mas y expandir mi conocimiento en el rubro
 
-**Jesus Neyra:**
+**Jesus Neyra:** Miembro del equipo GUGU, empecé a programar y crear aginas web en la secundaria, pero no me genero mucho interes hasta que curse la materia de computacion  en la facultad de ingenieria, generando un interes por conocer mas sobre esta area. 
 
 **Eunice Quispe:** Miembro del equipo GUGU. Despues de terminar la secundaria decidi conocer más sobre programación y aqui estoy, de hecho este es mi primer readme en github.
 
