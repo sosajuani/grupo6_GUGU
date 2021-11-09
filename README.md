@@ -32,8 +32,8 @@ El público objetivo serán adultos que tengan hijos o familiares de a - 6 años
 
 ## Sitios web de referencia 🔗:
 - https://www.tiendacracovia.com.ar/ **Carrito de compras, header, footer**
-- https://www.somno.com.ar/ **log in**
-- https://ikitoi.com/ **contacto, producto**
+- https://www.somno.com.ar/ **Log in**
+- https://ikitoi.com/ **Contacto y productos**
 - http://www.girodidactico.com/index.aspx
 - https://www.cebra.com.ar/ **Contenido del home, header, footer**
 
