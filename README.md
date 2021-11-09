@@ -21,13 +21,13 @@ El objetivo de dichos juguetes es acompañar a los infantes de manera entretenid
 El público objetivo serán adultos que tengan hijos o familiares de a - 6 años
 
 ## Equipo:busts_in_silhouette::
-**Juan Sosa:** Miembro del equipo de GUGU. Empecé en la programación hace 10 años como hobby, lo deje de lado un tiempo y ahora volví a programar pero enfocado mas al ámbito profesional.
+**Juan Sosa:** Miembro del equipo GUGU. Empecé en la programación hace 10 años como hobby, lo deje de lado un tiempo y ahora volví a programar pero enfocado mas al ámbito profesional.
 
-**Paola Fernandez:**  Miembro del equipo, empecé aprendiendo programacion orientada a objetos,  hoy en dia es algo que me encanta  y tengo muchas ganas de aprender mas y expandir mi conocimiento en el rubro
+**Paola Fernandez:**  Miembro del equipo, empecé aprendiendo programación orientada a objetos,  hoy en dia es algo que me encanta  y tengo muchas ganas de aprender mas y expandir mi conocimiento en el rubro
 
-**Jesus Neyra:** Miembro del equipo GUGU, empecé a programar y crear aginas web en la secundaria, pero no me genero mucho interes hasta que curse la materia de computacion  en la facultad de ingenieria, generando un interes por conocer mas sobre esta area. 
+**Jesus Neyra:** Miembro del equipo GUGU, empecé a programar y crear páginas web en la secundaria, pero no me generó mucho interés hasta que curse la materia de computación  en la facultad de ingeniería, generando un interés por conocer más sobre esta área. 
 
-**Eunice Quispe:** Miembro del equipo GUGU. Despues de terminar la secundaria decidi conocer más sobre programación y aqui estoy, de hecho este es mi primer readme en github.
+**Eunice Quispe:** Miembro del equipo GUGU. Después de terminar la secundaria decidí conocer más sobre programación y aqui estoy, de hecho este es mi primer readme en github.
 
 
 ## Sitios web de referencia 🔗:
