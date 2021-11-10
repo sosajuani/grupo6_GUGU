@@ -1,0 +1,23 @@
+{
+  "name": "grupo6_GUGU",
+  "version": "1.0.0",
+  "description": "Este proyecto consiste en desarrollar un e-commerce. En este caso una jugetería, orientada en su mayoria a la venta de juguetes didácticos.\r El objetivo de dichos juguetes es acompañar y ayudar a los infantes a poder desarrollar de manera entretenida y divertida su capacidad mental y adquisición de conocimientos de forma activa.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sosajuani/grupo6_GUGU.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sosajuani/grupo6_GUGU/issues"
+  },
+  "homepage": "https://github.com/sosajuani/grupo6_GUGU#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
